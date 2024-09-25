@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Andrew!
-👨‍💻 Fourth Year Computer Science Student at the University of California, Davis<br/>
+👨‍💻 Fourth Year Computer Science Student at University of California, Davis<br/>
 👉 Passionate about Data Science and Machine Learning<br/>
 🤖 Currently learning about Retrieval Augmented Generation<br/>
 
