@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Andrew!
-👨‍💻 Fourth Year Computer Science Student and the University of California, Davis<br/>
+👨‍💻 Fourth Year Computer Science Student at the University of California, Davis<br/>
 👉 Passionate about Data Science and Machine Learning<br/>
-🤖 Currently learning about retrieval augmented generation<br/>
+🤖 Currently learning about Retrieval Augmented Generation<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 [![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=acyeow&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)<br/>
