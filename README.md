@@ -1,4 +1,29 @@
+<<<<<<< HEAD
 # Hey, I'm Andrew!
+=======
+# 👋 Hi, I'm Andrew!
+
+👨‍💻 Fourth Year Computer Science Student at University of California, Davis<br/>
+👉 Passionate about Data Science and Machine Learning<br/>
+🤖 Currently learning about Retrieval Augmented Generation<br/>
+
+<!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Los_Angeles
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 26/02/2025 21:08:04 UTC
+<!--END_SECTION:waka-->
+>>>>>>> a208a9b9150d8f4c75a44a6eda136d97218e3ea4
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 
