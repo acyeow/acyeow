@@ -1,10 +1,10 @@
 # Hey, I'm Andrew!
 
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+## Here's my current stats!
 
 [![Andrew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=acyeow&show_icons=true&rank_icon=github&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=acyeow&layout=compact&theme=dark#gh-dark-mode-only)
+## Here's my top languages this week:
 
 <!--START_SECTION:waka-->
 
