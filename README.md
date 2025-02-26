@@ -4,8 +4,6 @@ I'm currently studying computer science and the University of California, Davis 
 
 [![Andrew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=acyeow&show_icons=true&rank_icon=github&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-## Here's my top languages this week:
-
 <!--START_SECTION:waka-->
 
 ```txt
