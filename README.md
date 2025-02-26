@@ -8,15 +8,8 @@ I'm currently studying computer science and the University of California, Davis 
 
 <!--START_SECTION:waka-->
 
-📊 **This Week I Spent My Time On**
-
-```text
-🕑︎ Time Zone: America/Los_Angeles
-
-💬 Programming Languages:
-No Activity Tracked This Week
+```txt
+No activity tracked
 ```
-
-Last Updated on 26/02/2025 21:18:05 UTC
 
 <!--END_SECTION:waka-->
