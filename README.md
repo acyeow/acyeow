@@ -2,7 +2,7 @@
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 
-[![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=acyeow&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)<br/>
+[![Andrew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=acyeow&show_icons=true&hide_rank=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 <!--START_SECTION:waka-->
 
