@@ -1,13 +1,20 @@
 # 👋 Hi, I'm Andrew!
+
 👨‍💻 Fourth Year Computer Science Student at University of California, Davis<br/>
 👉 Passionate about Data Science and Machine Learning<br/>
 🤖 Currently learning about Retrieval Augmented Generation<br/>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+
 [![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=acyeow&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)<br/>
 
 # 💻 Tech Stack
+
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
