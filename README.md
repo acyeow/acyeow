@@ -7,7 +7,9 @@ I'm currently studying computer science and the University of California, Davis 
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+YAML       43 mins         ███████████▓░░░░░░░░░░░░░   46.44 %
+Markdown   28 mins         ███████▓░░░░░░░░░░░░░░░░░   30.00 %
+Python     22 mins         ██████░░░░░░░░░░░░░░░░░░░   23.56 %
 ```
 
 <!--END_SECTION:waka-->
