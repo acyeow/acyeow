@@ -9,11 +9,11 @@ I'm currently studying computer science at the University of California, Davis (
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   4 hrs 53 mins   ███████▓░░░░░░░░░░░░░░░░░   30.72 %
-Python       4 hrs 7 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.94 %
-Markdown     2 hrs 9 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.51 %
-C            1 hr 32 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.68 %
-Bash         1 hr 14 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
+TypeScript   4 hrs 53 mins   ████████░░░░░░░░░░░░░░░░░   31.86 %
+Python       4 hrs 7 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.90 %
+Markdown     2 hrs 19 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.18 %
+Bash         1 hr 14 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
+C            47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
 ```
 
 <!--END_SECTION:waka-->
