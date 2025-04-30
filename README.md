@@ -9,11 +9,11 @@ I'm currently studying computer science at the University of California, Davis (
 <!--START_SECTION:waka-->
 
 ```txt
-C            5 hrs 35 mins   █████████████▓░░░░░░░░░░░   55.02 %
-Markdown     2 hrs 48 mins   ███████░░░░░░░░░░░░░░░░░░   27.57 %
-Terraform    1 hr 28 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.56 %
-Text         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-Makefile     4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+C            5 hrs 37 mins   █████████████▓░░░░░░░░░░░   54.56 %
+Markdown     2 hrs 54 mins   ███████░░░░░░░░░░░░░░░░░░   28.22 %
+Terraform    1 hr 28 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.35 %
+Text         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+Makefile     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
 ```
 
 <!--END_SECTION:waka-->
