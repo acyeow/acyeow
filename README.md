@@ -1,6 +1,8 @@
 # Hey, I'm Andrew!
 
-I'm currently studying computer science at the University of California, Davis (Class of 2025)! I'm interested in integrating AI to build practical applications, implementing LLM optimizations (tokenization, retrival augmented generation, finetuning, etc.), and building and using databases in an complex AI ecosystem.
+I'm a recent UC Davis graduate with a BS in Computer Science (Class of 2025)! I am passionate about integrating AI to build practical and responsible systems.
+
+Check out my portfolio here: [https://acyeow-portfolio.vercel.app/](https://acyeow-portfolio.vercel.app/)
 
 [![Andrew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=acyeow&show_icons=true&rank_icon=github&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
