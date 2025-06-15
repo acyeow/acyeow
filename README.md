@@ -11,10 +11,10 @@ Check out my portfolio here: [https://acyeow-portfolio.vercel.app/](https://acye
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   8 hrs 51 mins   ██████████████████████░░░   87.81 %
-Markdown     58 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.66 %
-CSS          14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
-TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+TypeScript   5 hrs 52 mins   ████████████████████▓░░░░   83.02 %
+Markdown     58 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.76 %
+CSS          13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
+TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
