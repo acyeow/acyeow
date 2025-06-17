@@ -11,8 +11,7 @@ Check out my portfolio here: [https://acyeow-portfolio.vercel.app/](https://acye
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   3 hrs 45 mins   ███████████████████████▓░   95.02 %
-Markdown     11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
+TypeScript   4 hrs 31 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
