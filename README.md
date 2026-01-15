@@ -5,4 +5,9 @@ I'm a recent UC Davis graduate with a BS in Computer Science (Class of 2025)! I 
 ## My weekly coding stats!
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
