@@ -7,8 +7,7 @@ I'm a recent UC Davis graduate with a BS in Computer Science (Class of 2025)! I 
 <!--START_SECTION:waka-->
 
 ```txt
-Java   8 hrs 8 mins    ████████████████████████▓   99.08 %
-Text   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+Java   7 hrs 12 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
