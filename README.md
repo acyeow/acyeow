@@ -7,11 +7,11 @@ I'm a recent UC Davis graduate with a BS in Computer Science (Class of 2025)! I 
 <!--START_SECTION:waka-->
 
 ```txt
-YAML       7 mins                ███████████████████████▒░   93.19 %
-XML        0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
-Markdown   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
-Java       0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
-Bash       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Bash       31 mins               ████████████▒░░░░░░░░░░░░   49.89 %
+YAML       31 mins               ████████████▒░░░░░░░░░░░░   49.18 %
+XML        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+Markdown   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Java       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
