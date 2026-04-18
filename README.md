@@ -7,11 +7,10 @@ I'm a recent UC Davis graduate with a BS in Computer Science (Class of 2025)! I 
 <!--START_SECTION:waka-->
 
 ```txt
-Other        1 hr 1 min            ████████████▓░░░░░░░░░░░░   50.73 %
-Markdown     24 mins               █████░░░░░░░░░░░░░░░░░░░░   20.08 %
-Python       20 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.18 %
-JSON         9 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
-C#           3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+Python     1 hr 18 mins          ██████████▓░░░░░░░░░░░░░░   43.28 %
+Other      1 hr 9 mins           █████████▓░░░░░░░░░░░░░░░   38.17 %
+Markdown   24 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.57 %
+JSON       9 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
 ```
 
 <!--END_SECTION:waka-->
