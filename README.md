@@ -1,6 +1,6 @@
 # Hey, I'm Andrew!
 
-I'm a recent UC Davis graduate with a BS in Computer Science (Class of 2025)! I am passionate about building practical and responsible systems.
+I'm a incoming Computer Science masters student at Georgia Tech! I am passionate about building practical and responsible systems. I have built and deployed custom RESTful APIs on AWS, engineered agentic ai pipelines and evaluation systems, and automated repetitive data ingestion and analysis processes in production environments.
 
 ### Here's my top languages this week!
 
