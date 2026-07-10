@@ -7,8 +7,8 @@ I'm a incoming Computer Science masters student at Georgia Tech! I am passionate
 <!--START_SECTION:waka-->
 
 ```txt
-C++        2 hrs 22 mins         █████████████████████████   99.71 %
-Markdown   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+C++        4 hrs 15 mins         █████████████████████████   99.84 %
+Markdown   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
